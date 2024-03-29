@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1267096046676c43acc0ce5d82ba659, type: 3}
+  m_Name: TileAtlas
+  m_EditorClassIdentifier: 
+  <grassTile>k__BackingField: {fileID: 11400000, guid: feabbdf63d6d8914092e02f1e5e91016, type: 2}
+  <dirtTile>k__BackingField: {fileID: 11400000, guid: 77f200ae3e21336478c3dd4c91ed9943, type: 2}
+  <stoneTile>k__BackingField: {fileID: 11400000, guid: e259111de391e8d4cb15d776b26cc081, type: 2}
+  <dirtWall>k__BackingField: {fileID: 11400000, guid: 9b339a016f7897649ac7b64af1c34f3c, type: 2}
+  <stoneWall>k__BackingField: {fileID: 11400000, guid: 80b1d8acc88364c4b9dc0584bff508c5, type: 2}
+  <plants>k__BackingField: {fileID: 11400000, guid: 7f438716548ce9645a0cf691d4e76a09, type: 2}
+  <tree>k__BackingField: {fileID: 11400000, guid: 7987c6e5e1e7e784e88561903bc69ff7, type: 2}

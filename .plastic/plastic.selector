@@ -1,0 +1,4 @@
+repository "Terraria@unityzzl@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
